@@ -1,0 +1,8 @@
+# React Native
+node_modules/
+ios/
+android/
+.expo/
+.expo-shared/
+*.log
+*.lock
